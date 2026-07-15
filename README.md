@@ -61,7 +61,7 @@ CRM Inteligente com IA para atendimento omnichannel.
 
 ## 💬 Marketplace
 
-Atendimento Inteligente integrado ao WhatsApp.
+E-Comerce inteligente.
 
 <br>
 
