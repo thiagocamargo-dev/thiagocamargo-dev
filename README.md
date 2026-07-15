@@ -1,5 +1,7 @@
 # Olá, eu sou Thiago Camargo 👋
 
+## 🛠️ Tecnologias e ferramentas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagocamargo-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,typescript,php,laravel,python,docker,mysql,postgres" />
 </p>
