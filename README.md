@@ -24,7 +24,7 @@ Sou apaixonado por desenvolvimento de software, inteligência artificial e autom
 ## 🛠️ Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,html,css,typescript,react,nextjs,nodejs,prisma,php,laravel,python,docker,mysql,postgres,git,n8n,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,typescript,react,nextjs,nodejs,prisma,php,laravel,python,docker,mysql,postgres,git,linux" />
 </p>
 
 ---
