@@ -6,5 +6,5 @@
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,nextjs,nodejs,prisma,php,laravel,python,docker,mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,typescript,react,nextjs,nodejs,prisma,php,laravel,python,docker,mysql,postgres" />
 </p>
