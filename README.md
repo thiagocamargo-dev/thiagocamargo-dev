@@ -178,7 +178,7 @@ Python • Docker • IA
 
 <p align="center">
 
-<a href="https://thiago-portfolio.vercel.app" target="_blank">
+<a href="https://thiago-portfolio.vercel.app](https://thiago-portfolio-ch3cdoxr6-syntran.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Online-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
