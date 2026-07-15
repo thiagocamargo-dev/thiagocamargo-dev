@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-syntran.png.png" width="100%" alt="Banner Syntran"/>
+  <img src="./banner.png" width="100%" alt="Banner Syntran"/>
 </p>
 # Olá, eu sou Thiago Camargo 👋
 
