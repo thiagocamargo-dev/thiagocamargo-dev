@@ -24,7 +24,7 @@ Desenvolvendo soluções modernas utilizando Inteligência Artificial, automaç�
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,typescript,react,nextjs,nodejs,prisma,php,laravel,python,docker,mysql,postgres,git" />
+<img src="https://skillicons.dev/icons?i=vscode,typescript,react,nextjs,nodejs,prisma,php,laravel,python,docker,mysql,postgres,git" />
 
 </p>
 
