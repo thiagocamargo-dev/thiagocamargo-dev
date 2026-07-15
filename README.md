@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./banner-syntran.png" width="100%" alt="Banner Syntran"/>
 </p>
-
 # Olá, eu sou Thiago Camargo 👋
 
 ## 🛠️ Tecnologias e ferramentas
