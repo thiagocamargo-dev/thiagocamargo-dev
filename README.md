@@ -168,10 +168,6 @@ Python • Docker • IA
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://syntran.online" target="_blank">
-<img src="https://img.shields.io/badge/Syntran-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 <a href="mailto:contato@syntran.online">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
