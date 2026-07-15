@@ -13,7 +13,7 @@
 💻 Software Engineer • 🤖 AI Developer • 🚀 Automation Specialist
 
 </p>
-
+ 
 <p align="center">
 Desenvolvendo soluções modernas utilizando Inteligência Artificial, automação de processos, aplicações web e integrações para empresas.
 </p>
@@ -183,5 +183,5 @@ Python • Docker • IA
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=thiagocamargo-dev&style=for-the-badge&color=3B82F6"/>
-
+Última atualização: Julho de 2026
 </p>
