@@ -12,7 +12,7 @@
 
 📍 Curitiba - PR, Brasil
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente desenvolvo soluções modernas utilizando Inteligência Artificial, automação de processos e aplicações web.
+Sou apaixonado por desenvolvimento de software, inteligência artificial e automação de processos. Atualmente desenvolvo soluções modernas para empresas utilizando tecnologias escaláveis, APIs e agentes inteligentes.
 
 ---
 
