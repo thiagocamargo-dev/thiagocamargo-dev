@@ -178,6 +178,8 @@ Python • Docker • IA
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=thiagocamargo-dev&style=for-the-badge&color=3B82F6"/>
-Última atualização: Julho de 2026
+<a href="https://thiago-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Online-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
