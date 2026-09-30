@@ -144,7 +144,7 @@ Python • Docker • IA
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thiagocamargo-dev&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/thiagocamargo-dev/thiagocamargo-dev/main/metrics.isocalendar.svg"/>
 
 </p>
 
